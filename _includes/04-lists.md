@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Cousera
+1. Codecademy
+1. freeCodeCamp
